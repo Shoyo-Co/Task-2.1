@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2.1</string>
+
+<string-array name="Temperature_units">
+    <item>Celsius</item>
+    <item>Fahrenheit</item>
+    <item>Kelvin</item>
+</string-array>
+</resources>
